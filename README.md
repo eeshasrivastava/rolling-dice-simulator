@@ -1,1 +1,2 @@
-# rolling-dice-simulator
+# Rolling Dice Simulator 
+
