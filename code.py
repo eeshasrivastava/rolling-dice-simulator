@@ -13,9 +13,9 @@ num = random.randrange(start, end+1)
 num_2 = str(num)[0]
 num_2 = int(num_2)
 
-'''
-Finally, choosing the number for the die
-'''
+
+#Finally, choosing the number for the die
+
 if num_2 < 6:
     roll = random.randrange(1, num_2+1)
 elif num_2 == 6:
